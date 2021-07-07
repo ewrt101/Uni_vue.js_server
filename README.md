@@ -1,4 +1,7 @@
-# SENG365 2020 Assignment 1 reference server
+# SENG365 2020 Assignment 1 
+
+## THIS IS UPLOADED FROM MY DRIVE AS IS, SO IT MIGHT/WILL BE BROKEN.
+this is mainly to show some of the work i did
 
 ## Overview of the continuous deployment process
 
